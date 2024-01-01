@@ -575,9 +575,3 @@ footer {
     grid-template-columns: repeat(auto-fit, 23rem);
   }
 }
-
-@media (max-width: 468px) {
-  .center .content .text {
-    font-size: 0.9rem;
-  }
-}
