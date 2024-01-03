@@ -619,6 +619,10 @@ footer {
     border-radius: 20px;
     padding: 5px 10px;
   }
+
+  .pre {
+    width: 75%;
+  }
 }
 
 @media (max-width: 425px) {
