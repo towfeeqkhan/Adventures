@@ -16,6 +16,13 @@
   color: #7EA22C;
 }
 
+.heading2 {
+  margin-top: 80px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: #7EA22C;
+}
+
 .card-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
